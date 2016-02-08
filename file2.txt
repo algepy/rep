@@ -1,4 +1,5 @@
 File text 2
 ============
 change at local pc
-user 2 added new line here
+user 1 remote code of user2 and
+added new line of code here
